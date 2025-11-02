@@ -1,0 +1,5 @@
+# Docker
+*.log
+
+# Git
+.DS_Store
